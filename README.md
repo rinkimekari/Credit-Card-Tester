@@ -13,6 +13,7 @@ This console application will automatically check the validity of a credit card 
 Just the basic UI, and haven't integrated Luhn's algorithm yet. Soon!
 
 ### Installation:
+MAKE SURE YOU HAVE JAVA 8+ INSTALLED
 ```
 sudo apt-get update && apt-get upgrade
 git clone https://github.com/rinkimekari/Credit-Card-Tester
