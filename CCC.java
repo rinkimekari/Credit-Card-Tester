@@ -3,7 +3,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class CCC {
 	static String option;
 	
 	public static void main(String[] args) throws InterruptedException {
