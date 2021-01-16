@@ -9,7 +9,7 @@ This console application will automatically check the validity of a credit card 
 2. Add Luhn's Algorithm.
 3. Secret!
 
-## V 1.0:
+## V 0.1:
 Just the basic UI, and haven't integrated Luhn's algorithm yet. Soon!
 
 ### Installation:
