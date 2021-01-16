@@ -17,12 +17,12 @@ Just the basic UI, and haven't integrated Luhn's algorithm yet. Soon!
 sudo apt-get update && apt-get upgrade
 git clone https://github.com/rinkimekari/Credit-Card-Tester
 cd Credit-Card-Tester
-java CreditCardTest.java
+java CCC.java
 ```
 ### Usage:
 (In Credit-Card-Tester directory)
 ```
-java CreditCardTest.java
+java CCC.java
 ```
 ### Author:
 Micah Wasmuth (me)
