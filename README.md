@@ -15,6 +15,7 @@ java CreditCardTest.java
 ```
 #### Author:
 Micah Wasmuth (me)
+
 Please don't copy my code without permission.
 
 My email is micahwasmuth@gmail.com
